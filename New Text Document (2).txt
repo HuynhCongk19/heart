@@ -1,0 +1,15 @@
+
+lab-db.cua5fjg08qq9.us-east-1.rds.amazonaws.com
+pip3 install psycopg2-binary
+pip3 install pandas
+
+cd /var/www/html
+sudo rm -r
+ls
+sudo touch main.py
+sudo touch index.html
+sudo chmod -R 777 *
+sudo vi main.py
+python3 main.py
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIO2MYHXH3wc8
++f308EP1014jRRNiNVpqfys/DGMkheHda huynh9201@gmail.com
